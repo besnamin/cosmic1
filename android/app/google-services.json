@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808336845524",
+    "project_id": "cosmicbeauty-98649",
+    "storage_bucket": "cosmicbeauty-98649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808336845524:android:64fb360df3b49c8909e941",
+        "android_client_info": {
+          "package_name": "com.example.cosmic1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808336845524-pt1f2jua4g4c0isessg504gfh479jbs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3xUufG_JhFNYJXvJjzEJyIdGkuxEpDbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808336845524-pt1f2jua4g4c0isessg504gfh479jbs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
